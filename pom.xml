@@ -25,7 +25,7 @@
     </modules>
     <packaging>pom</packaging>
 
-    <name>leyou</name>
+    <name>leyou1</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
